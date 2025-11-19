@@ -1,6 +1,6 @@
-# 2048 AI Solver
+# Game 2048
 
-Dự án này xây dựng trò chơi **2048** kèm theo các thuật toán tìm kiếm AI gồm **BFS, DFS, UCS, A*, Greedy**. Mục tiêu là minh họa cách các thuật toán duyệt không gian trạng thái để tìm chuỗi nước đi tốt nhất hoặc tự động chơi trò chơi.
+Dự án này xây dựng trò chơi **2048** kèm theo các thuật toán tìm kiếm AI gồm **BFS, DFS, UCS, A star, Greedy**. Mục tiêu là minh họa cách các thuật toán duyệt không gian trạng thái để tìm chuỗi nước đi tốt nhất hoặc tự động chơi trò chơi.
 
 ---
 
